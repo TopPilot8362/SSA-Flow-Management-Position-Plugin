@@ -47,7 +47,7 @@ Includes a **[Reload DB]** button.
 ```
 HLD        Grey    No holding fixes found in the filed route
 HLD*       Amber   One or more candidate fixes detected — click to assign
-CTV      Cyan    Fix assigned; advisory message sent to pilot
+CTV        Cyan    Fix assigned; advisory message sent to pilot
 ```
 **Copied from opensource code**
 
