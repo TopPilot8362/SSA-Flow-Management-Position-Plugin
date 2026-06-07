@@ -85,3 +85,6 @@ FOLLOW CONTROLLER INSTRUCTIONS AT ALL TIMES.
 
 To contribute to the SSA Flow Management Position plugin, please use the dedicated guide that will be found within this github repository.
 
+## License
+
+Subject to change, as of this moment GNU General Public V3.0.
