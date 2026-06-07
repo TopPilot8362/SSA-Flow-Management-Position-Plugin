@@ -28,18 +28,21 @@ The initial code is opensource from Jamie. I am planning to create my own versio
 Replaces `.fmp status` and `.fmp airports` — shows total tracked aircraft,
 number of airports in the database, database load state, and a compact
 airport list. A **[Reload DB]** button hot-reloads `holds.json`.
+
 **Copied from opensource code**
 
 ### Airports tab
 Replaces `.fmp list <ICAO>` — shows every airport in the DB with live demand
 colour-coding (green/amber/red). Click an airport row to drill into a full
 aircraft list showing callsign, assigned fix, sequence tag, and ETA.
+
 **Copied from opensource code**
 
 ### Demand tab
 Replaces `.fmp demand` — shows all **active** airports (at least one tracked
 aircraft) with demand level, total inbound count, and holding count.
 Includes a **[Reload DB]** button.
+
 **Copied from opensource code**
 
 ## Tag States
