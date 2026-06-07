@@ -21,6 +21,7 @@ The initial code is opensource from Jamie. I am planning to create my own versio
 | **Airports tab** | Lists every airport in the DB with live demand; click one to view its aircraft |
 | **Demand tab** | Per-airport demand level (Low/Medium/High), inbound count, holding count + [Reload DB] |
 | **Draggable panel** | Drag the panel title bar to reposition it anywhere on screen |
+
 **Copied from opensource code**
 
 ### Status tab
