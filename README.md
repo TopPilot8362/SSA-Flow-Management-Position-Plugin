@@ -63,6 +63,7 @@ CTV        Cyan    Fix assigned; advisory message sent to pilot
    **Symbology** → **Label Items** → drag `Hold Advisor` into your label string.
 4. Add the **Assign Hold Fix** function to the same tag item as the click action.
 5. The **[FMP]** button will appear in the top-left of every open radar window.
+
 **Copied from opensource code**
 
 ## Advisory Message Format
