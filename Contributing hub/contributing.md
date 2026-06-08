@@ -26,3 +26,5 @@ To change it simply follow the file structure
     {`
 
 Span this over lines after a comma. 
+
+This step will require a level of JSON knowledge.
