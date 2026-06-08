@@ -15,21 +15,12 @@ To change it simply follow the file structure
 
 `{
   "FACT": [
-  
     {
-    
       "fix": "CTV",
-      
       "inbound_track": 9,
-      
       "turn": "LEFT",
-      
       "alt_ft": 3000,
-      
       "legs_nm": 10,
-      
       "note": "Cape Town VOR holding"
-      
     },
-    
     {`
