@@ -92,4 +92,4 @@ To contribute to the SSA Flow Management Position plugin, please use the dedicat
 
 ## License
 
-Subject to change, as of this moment GNU General Public V3.0.
+MIT License.
